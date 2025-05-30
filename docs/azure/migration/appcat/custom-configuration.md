@@ -2,7 +2,7 @@
 title: How to customize analysis with JSON run configurations
 description: Learn how to include a JSON file to configure your code assessment
 ms.topic: conceptual
-ms.date: 08/02/2024
+ms.date: 05/30/2025
 author: mckennabarlow
 ms.author: mcbarlow
 ---

@@ -2,7 +2,7 @@
 title: Azure Migrate application and code assessment for .NET FAQ
 description: Frequently asked questions for the Azure Migrate application and code assessment for .NET
 ms.topic: conceptual
-ms.date: 08/16/2024
+ms.date: 05/30/2025
 ---
 
 # Frequently asked questions

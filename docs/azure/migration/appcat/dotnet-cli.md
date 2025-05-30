@@ -2,7 +2,7 @@
 title: Use Azure Migrate application and code assessment for .NET with the .NET CLI
 description: Learn how to assess .NET applications to evaluate their readiness to migrate to Azure with the .NET CLI.
 ms.topic: conceptual
-ms.date: 11/10/2023
+ms.date: 05/30/2025
 author: codemillmatt
 ms.author: masoucou
 ---
